@@ -1,8 +1,13 @@
 html {
-  background-color: #111111;
-  color: #DDDDDD;
+  /* background-color: #111111;
+  color: #DDDDDD; */
 }
 
 a {
-  color: #0074D9;
+  /* color: #0074D9; */
+}
+
+.visual-aid {
+  width: 100px;
+  height: 100px;
 }
