@@ -8,6 +8,10 @@ a {
   /* color: #0074D9; */
 }
 
+.sunvox-icon {
+  margin-top: 10px;
+}
+
 .visual-aid {
   width: 50%;
   height: auto;
@@ -62,4 +66,17 @@ ul.footer li a {
 .content {
   padding-left: 16px;
   padding-right: 16px;
+}
+
+footer {
+  margin-top: 50px;
+}
+
+.top-menu-hr {
+  margin-top: 20px;
+  margin-bottom: -2px;
+}
+
+.bottom-menu-hr {
+  margin-top: -2px;
 }
