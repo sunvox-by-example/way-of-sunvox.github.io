@@ -12,8 +12,13 @@ a {
   margin-top: 10px;
 }
 
-.visual-aid {
+.visual-aid-50 {
   width: 50%;
+  height: auto;
+}
+
+.visual-aid-100 {
+  width: 100%;
   height: auto;
 }
 
@@ -73,10 +78,11 @@ footer {
 }
 
 .top-menu-hr {
-  margin-top: 20px;
+  margin-top: 30px;
   margin-bottom: -2px;
 }
 
 .bottom-menu-hr {
   margin-top: -2px;
+  margin-bottom: 30px;
 }
