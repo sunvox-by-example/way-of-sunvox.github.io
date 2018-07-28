@@ -1,7 +1,5 @@
 html {
-
-  /* background-color: #111111;
-  color: #DDDDDD; */
+  font-size: 3.0vw;
 }
 
 a {
@@ -10,6 +8,11 @@ a {
 
 .sunvox-icon {
   margin-top: 10px;
+}
+
+.visual-aid-25 {
+  width: 25%;
+  height: auto;
 }
 
 .visual-aid-50 {
@@ -27,7 +30,7 @@ ul.main-menu {
     margin: 0;
     padding: 0;
     overflow: hidden;
-    font-size: 19px;
+    font-size: 3.0vw;
 }
 
 ul.main-menu li {
