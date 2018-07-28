@@ -9,7 +9,7 @@ gulp.task('nunjucks', function() {
       path: ['app/templates']
     }))
   // output files in app folder
-  .pipe(gulp.dest('app'))
+  .pipe(gulp.dest('.'))
 });
 
 gulp.task('default', [ 'nunjucks' ]);
