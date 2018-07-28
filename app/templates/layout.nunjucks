@@ -36,3 +36,94 @@
 
 </body>
 </html>
+
+<style>
+html {
+}
+
+.sunvox-icon {
+  margin-top: 10px;
+  cursor: pointer;
+}
+
+.visual-aid-25 {
+  width: 25%;
+  height: auto;
+}
+
+.visual-aid-50 {
+  width: 50%;
+  height: auto;
+}
+
+.visual-aid-100 {
+  width: 100%;
+  height: auto;
+}
+
+ul.main-menu {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    font-size: 18px;
+}
+
+ul.main-menu li {
+    float: left;
+}
+
+ul.main-menu li a {
+    display: block;
+    text-align: center;
+    padding: 16px;
+    text-decoration: none;
+    color: black;
+}
+
+ul.main-menu li a:hover {
+    background-color: #111111;
+    color: white;
+}
+
+ul.footer {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    font-size: 19px;
+}
+
+ul.footer li {
+    list-style-type: none;
+    float: left;
+}
+
+ul.footer li a {
+    display: block;
+    text-align: center;
+    padding: 16px;
+    text-decoration: none;
+    color: black;
+}
+
+.content {
+  padding-left: 16px;
+  padding-right: 16px;
+}
+
+footer {
+  margin-top: 50px;
+}
+
+.top-menu-hr {
+  margin-top: 30px;
+  margin-bottom: -2px;
+}
+
+.bottom-menu-hr {
+  margin-top: -2px;
+  margin-bottom: 30px;
+}
+
+</style>
