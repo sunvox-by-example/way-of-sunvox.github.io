@@ -23,8 +23,11 @@
     </ul>
   </nav>
   <hr class="bottom-menu-hr">
-  <!-- You write code for this content block in another file -->
-  {% block content %} {% endblock %}
+
+  <div class="content">
+    <!-- You write code for this content block in another file -->
+    {% block content %} {% endblock %}
+  </div>
 
   <footer>
     <hr>
