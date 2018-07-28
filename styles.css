@@ -1,9 +1,9 @@
 html {
-  font-size: 2.0vw;
 }
 
 .sunvox-icon {
   margin-top: 10px;
+  cursor: pointer;
 }
 
 .visual-aid-25 {
@@ -26,7 +26,7 @@ ul.main-menu {
     margin: 0;
     padding: 0;
     overflow: hidden;
-    font-size: 3.0vw;
+    font-size: 18px;
 }
 
 ul.main-menu li {
