@@ -136,7 +136,7 @@ ul.footer {
     margin: 0;
     padding: 0;
     overflow: hidden;
-    font-size: 135%;
+    font-size: 110%;
 }
 
 ul.footer li {
